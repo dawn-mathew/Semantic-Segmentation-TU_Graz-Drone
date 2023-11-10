@@ -51,6 +51,7 @@ from tensorflow.keras.optimizers import SGD, Adam
 ```
 ## Results
 - During the training of our neural network over 100 epochs, with a batch size of 16, we observed significant advancements. The network achieved an impressive accuracy of 0.9075 and a final loss of 0.2965 on the training dataset, indicating its strong ability to capture underlying patterns. Meanwhile, on the validation set, it displayed notable performance, with a loss of 1.4093 and an accuracy of 0.7158. These results underscore the network's capacity to generalize learned knowledge to unseen data, underscoring its effectiveness in our training task.
+
 ![image](https://github.com/dawn-mathew/Semantic-Segmentation-TU_Graz-Drone/assets/150279674/47832464-3c56-4497-875f-828a1b57a9ff)
 - The model's ability to perform semantic segmentation on new data is evident from the images bellow. With reasonable accuracy, it effectively assigns semantic labels to objects within the images, demonstrating its aptitude for generalization.
 ![image](https://github.com/dawn-mathew/Semantic-Segmentation-TU_Graz-Drone/assets/150279674/e4545d99-e95f-49f3-825e-b9c7b7502dfe)
