@@ -19,7 +19,7 @@ This repository offers a basic & fundamental implementation for testing and trai
 - `class_dict_seg.csv` is a csv file containing a class dictionary or mapping for semantic segmentation, associating class labels with their corresponding semantic meanings.
 - `label_images_semantic` is a subdirectory containing labeled images for semantic segmentation. These are gray scale masks that can be used to train the neural network for the semantic segmentation task.
 - `original_images` is a subdirectory where the original drone images are stored, which are used for semantic segmentation training and testing.
-- 'RGB_color_image_masks' is the subdirectory that contains RGB color masks, used for training the neural network for semantic segmentation.
+- `RGB_color_image_masks` is the subdirectory that contains RGB color masks, used for training the neural network for semantic segmentation.
 - `Semantic_Segmentation.ipynb` is a Jupyter Notebook containing the code and documentation related to performing semantic segmentation tasks on the provided dataset.
 
 ## Dependencies
